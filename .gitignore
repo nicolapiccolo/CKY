@@ -9,3 +9,4 @@ out
 gen
 .idea/.gitignore
 .idea/misc.xml
+.DS_Store
